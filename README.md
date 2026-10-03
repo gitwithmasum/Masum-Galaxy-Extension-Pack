@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/marketplace-hero.jpg" alt="Masum Galaxy Extension Pack — complete futuristic VS Code experience" width="100%">
+  <img src="images/marketplace-hero.png" alt="Masum Galaxy Extension Pack — complete futuristic VS Code experience" width="100%">
 </p>
 
 # Masum Galaxy // Extension Pack
@@ -31,7 +31,7 @@ Install one extension pack instead of installing the three Masum Galaxy extensio
 ## Branding
 
 - Marketplace icon: `images/icon.png`
-- Hero banner: `images/marketplace-hero.jpg`
+- Hero banner: `images/marketplace-hero.png`
 
 ## Local development
 
