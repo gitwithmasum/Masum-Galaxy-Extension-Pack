@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/marketplace-hero.jpg" alt="Masum Galaxy Extension Pack — complete futuristic VS Code experience" width="100%">
+</p>
+
 # Masum Galaxy // Extension Pack
 
 The complete **Masum Galaxy VS Code experience** by **Masum Billah** — futuristic color themes, Galaxy file icons, and custom product icons in one install.
@@ -23,6 +27,11 @@ gitwithmasum.masum-galaxy-product-icons
 ## Why use the pack?
 
 Install one extension pack instead of installing the three Masum Galaxy extensions separately. Each included extension remains independently configurable, so you can choose the color theme, file icon theme and product icon theme you want.
+
+## Branding
+
+- Marketplace icon: `images/icon.png`
+- Hero banner: `images/marketplace-hero.jpg`
 
 ## Local development
 
