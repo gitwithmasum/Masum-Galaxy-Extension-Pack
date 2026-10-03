@@ -1,0 +1,56 @@
+{
+  "name": "masum-galaxy-extension-pack",
+  "displayName": "Masum Galaxy // Extension Pack",
+  "description": "The complete Masum Galaxy VS Code experience — futuristic themes, file icons, and product icons bundled into one extension pack.",
+  "version": "1.0.0",
+  "publisher": "gitwithmasum",
+  "author": {
+    "name": "Masum Billah",
+    "url": "https://github.com/gitwithmasum"
+  },
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Extension Packs",
+    "Themes"
+  ],
+  "keywords": [
+    "masum galaxy",
+    "extension pack",
+    "vscode theme",
+    "galaxy",
+    "futuristic",
+    "neon",
+    "file icons",
+    "product icons",
+    "developer theme",
+    "cyberpunk"
+  ],
+  "galleryBanner": {
+    "color": "#050914",
+    "theme": "dark"
+  },
+  "pricing": "Free",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gitwithmasum/Masum-Galaxy-Extension-Pack.git"
+  },
+  "homepage": "https://github.com/gitwithmasum/Masum-Galaxy-Extension-Pack#readme",
+  "bugs": {
+    "url": "https://github.com/gitwithmasum/Masum-Galaxy-Extension-Pack/issues"
+  },
+  "extensionPack": [
+    "gitwithmasum.masum-galaxy-future-code",
+    "gitwithmasum.masum-galaxy-file-icons",
+    "gitwithmasum.masum-galaxy-product-icons"
+  ],
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^4.0.0"
+  }
+}
