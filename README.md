@@ -7,7 +7,7 @@
 **One install for the complete Masum Galaxy VS Code experience.**  
 Get futuristic color themes, Galaxy file icons, and custom product icons together in one pack by **Masum Billah**.
 
-**Version 1.0.0 · Free · MIT**
+**Version 1.0.1 · Free · MIT**
 
 ## Included extensions
 
@@ -56,13 +56,13 @@ npx.cmd vsce package
 This creates:
 
 ```text
-masum-galaxy-extension-pack-1.0.0.vsix
+masum-galaxy-extension-pack-1.0.1.vsix
 ```
 
 Install the local VSIX with:
 
 ```powershell
-code --install-extension .\masum-galaxy-extension-pack-1.0.0.vsix --force
+code --install-extension .\masum-galaxy-extension-pack-1.0.1.vsix --force
 ```
 
 ## Included projects
