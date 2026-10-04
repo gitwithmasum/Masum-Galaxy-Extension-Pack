@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.1
+
+- Refined Marketplace search tags for better discovery.
+- Added tags for all-in-one setup, dark themes, developer productivity, and Visual Studio Code.
+- Removed redundant theme keyword variants.
+- Kept the Marketplace description and quick-start presentation focused on the complete Masum Galaxy experience.
+
 ## 1.0.0
 
 - Initial release of **Masum Galaxy // Extension Pack**.
