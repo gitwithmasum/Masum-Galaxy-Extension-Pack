@@ -2,7 +2,7 @@
   "name": "masum-galaxy-extension-pack",
   "displayName": "Masum Galaxy // Extension Pack",
   "description": "One install for the complete Masum Galaxy VS Code experience — futuristic themes, file icons, and product icons.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "gitwithmasum",
   "author": {
     "name": "Masum Billah",
@@ -21,17 +21,18 @@
     "masum galaxy",
     "masum billah",
     "extension pack",
+    "all in one",
     "vscode theme",
+    "dark theme",
     "galaxy",
     "futuristic",
     "neon",
+    "cyberpunk",
     "file icons",
     "product icons",
     "developer theme",
-    "cyberpunk",
-    "themes",
-    "theme",
-    "Theme"
+    "developer productivity",
+    "visual studio code"
   ],
   "galleryBanner": {
     "color": "#050914",
