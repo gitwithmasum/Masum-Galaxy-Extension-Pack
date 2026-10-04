@@ -4,7 +4,8 @@
 
 # Masum Galaxy // Extension Pack
 
-The complete **Masum Galaxy VS Code experience** by **Masum Billah** — futuristic color themes, Galaxy file icons, and custom product icons in one install.
+**One install for the complete Masum Galaxy VS Code experience.**  
+Get futuristic color themes, Galaxy file icons, and custom product icons together in one pack by **Masum Billah**.
 
 **Version 1.0.0 · Free · MIT**
 
@@ -12,11 +13,25 @@ The complete **Masum Galaxy VS Code experience** by **Masum Billah** — futuris
 
 | Extension | What it adds |
 | --- | --- |
-| **Masum Galaxy // Future Code** | Futuristic Galaxy, Cyber City, AI Core, Black Hole, Quantum Grid, Mars Colony, Deep Ocean, Aurora, Mecha Core, Orbital Station and Solar Flare color themes, plus optional animated workbench effects |
-| **Masum Galaxy // File Icons** | Galaxy-inspired file and folder icons for web, full-stack, AI/ML, database and DevOps workflows |
-| **Masum Galaxy // Product Icons** | Premium Galaxy VS Code UI/product icons with optional Aurora hover effects |
+| [**Masum Galaxy // Future Code**](https://marketplace.visualstudio.com/items?itemName=gitwithmasum.masum-galaxy-future-code) | Futuristic Galaxy, Cyber City, AI Core, Black Hole, Quantum Grid, Mars Colony, Deep Ocean, Aurora, Mecha Core, Orbital Station and Solar Flare color themes, plus optional animated workbench effects |
+| [**Masum Galaxy // File Icons**](https://marketplace.visualstudio.com/items?itemName=gitwithmasum.masum-galaxy-file-icons) | Galaxy-inspired file and folder icons for web, full-stack, AI/ML, database and DevOps workflows |
+| [**Masum Galaxy // Product Icons**](https://marketplace.visualstudio.com/items?itemName=gitwithmasum.masum-galaxy-product-icons) | Premium Galaxy VS Code UI/product icons with optional Aurora hover effects |
 
-### Extension IDs
+## Quick Start
+
+1. Install **Masum Galaxy // Extension Pack**.
+2. Open the Command Palette with `Ctrl + Shift + P`.
+3. Choose your preferred:
+   - `Preferences: Color Theme`
+   - `Preferences: File Icon Theme`
+   - `Preferences: Product Icon Theme`
+4. For the complete look, use the Masum Galaxy theme, file icons and product icons together.
+
+## Why use the pack?
+
+Install one extension instead of installing the three Masum Galaxy extensions separately. Each included extension remains independently configurable, so you can mix and match the parts of the Galaxy experience you want.
+
+## Extension IDs
 
 ```text
 gitwithmasum.masum-galaxy-future-code
@@ -24,14 +39,9 @@ gitwithmasum.masum-galaxy-file-icons
 gitwithmasum.masum-galaxy-product-icons
 ```
 
-## Why use the pack?
+## Optional effects note
 
-Install one extension pack instead of installing the three Masum Galaxy extensions separately. Each included extension remains independently configurable, so you can choose the color theme, file icon theme and product icon theme you want.
-
-## Branding
-
-- Marketplace icon: `images/icon.png`
-- Hero banner: `images/marketplace-hero.png`
+The core themes and icon themes work normally after installation. Optional Aurora/custom CSS hover effects may require additional desktop-side setup and are not required to use this Extension Pack.
 
 ## Local development
 
@@ -55,23 +65,16 @@ Install the local VSIX with:
 code --install-extension .\masum-galaxy-extension-pack-1.0.0.vsix --force
 ```
 
-## Recommended setup
-
-After installation, open the Command Palette with `Ctrl + Shift + P` and choose your preferred:
-
-```text
-Preferences: Color Theme
-Preferences: File Icon Theme
-Preferences: Product Icon Theme
-```
-
-For the full Galaxy look, use **Masum Galaxy // Future Code**, **Masum Galaxy // File Icons**, and **Masum Galaxy // Product Icons** together.
-
 ## Included projects
 
 - [Masum Galaxy // Future Code](https://github.com/gitwithmasum/Galaxy-VS-Code-Themes)
 - [Masum Galaxy // File Icons](https://github.com/gitwithmasum/Galaxy-VS-Code-File-Icon)
 - [Masum Galaxy // Product Icons](https://github.com/gitwithmasum/Galaxy-VS-Code-Product-Icon)
+
+## Branding
+
+- Marketplace icon: `images/icon.png`
+- Hero banner: `images/marketplace-hero.png`
 
 ## License
 
